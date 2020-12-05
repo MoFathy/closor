@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="80" viewBox="0 0 88 80">
+  <g id="Action_4" data-name="Action 4" transform="translate(-8 -469)">
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H86V80H0Z" transform="translate(94 549) rotate(180)" fill="#ff473a"/>
+    <g id="icon">
+      <path id="Vector" d="M4.156,0H1.711A1.641,1.641,0,0,0,0,1.556V11.778a1.641,1.641,0,0,0,1.711,1.556H4.156a1.641,1.641,0,0,0,1.711-1.556V1.556A1.641,1.641,0,0,0,4.156,0Z" transform="matrix(1, 0, 0, 1, 57.133, 499.222)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M5.005,0A3.818,3.818,0,0,0,1.153,2.951L.058,8.729a3.674,3.674,0,0,0,3.852,4.16H8.525a7.935,7.935,0,0,0-.733,3.556A3.4,3.4,0,0,0,10.97,20c.978,0,1.467-.444,1.467-2.667,0-2.112,2.25-3.812,3.7-4.687V1.635A24.758,24.758,0,0,0,6.57,0Z" transform="matrix(1, 0, 0, 1, 39.534, 499)" fill="#fff"/>
+    </g>
+    <text id="Sign_up" data-name="Sign up" transform="translate(8 469)" fill="#fff" font-size="10" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="13.61" y="10">Unqualified</tspan></text>
+  </g>
+</svg>
